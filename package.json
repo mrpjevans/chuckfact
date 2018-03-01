@@ -1,0 +1,25 @@
+{
+  "name": "chuckfact",
+  "version": "0.1.0",
+  "description": "Everyone needs Chuck Norris facts",
+  "main": "chuck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrpjevans/chuckfact.git"
+  },
+  "keywords": [
+    "chuck",
+    "norris",
+    "facts",
+    "random"
+  ],
+  "author": "PJ Evans <PJ Evans <pj@mrpjevans.com> (https://mrpjevans.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrpjevans/chuckfact/issues"
+  },
+  "homepage": "https://github.com/mrpjevans/chuckfact#readme"
+}
