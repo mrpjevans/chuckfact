@@ -12,7 +12,7 @@ exports.getChuckNorrisFact = (cb) => {
     	const chuckLine = Math.floor(Math.random() * (86)) + 1;
 
     	const rl = readline.createInterface({
-    	    input: fs.createReadStream('chuck.txt')
+    	    input: fs.createReadStream(__dirname + '/chuck.txt')
     	});
 
     	rl.on('line', (line) => {
